@@ -1,4 +1,4 @@
-flet xPos, yPos, xR, yR
+let xPos, yPos, xR, yR
 
 function setup() {
   createCanvas(windowWidth, windowHeight)
